@@ -7,7 +7,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-//        BufferedReader reader = new BufferedReader(new FileReader("input.txt"));
+//        BufferedReader reader = new BufferedReader(new FileReader("input.txt.txt"));
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
         String[] lines = reader.readLine().split(" ");

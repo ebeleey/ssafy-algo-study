@@ -7,7 +7,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-//        BufferedReader reader = new BufferedReader(new FileReader("day03/BOJ2309/input.txt"));
+//        BufferedReader reader = new BufferedReader(new FileReader("day03/BOJ2309/input.txt.txt"));
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
         List<Integer> lst = new ArrayList<>();
